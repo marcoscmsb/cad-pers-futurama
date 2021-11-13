@@ -90,7 +90,7 @@
         <td class="p-3">{{ personagem.nome }}</td>
         <td class="p-3">
           <img
-            class="object-scale-down h-48 w-full ... "
+            class="object-scale-down h-48 w-full "
             :src="personagem.imagem"
             alt="Imagem do Personagem"
           />
